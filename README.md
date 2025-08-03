@@ -1,6 +1,6 @@
 # ICDC_ET
 
-***Undergraduate-Level***
+*Undergraduate-Level*
 
 **2018 LCD_CTRL_univ**  
 ![duration](https://img.shields.io/badge/time_spent-4h12m-green?style=flat-square)<br>
